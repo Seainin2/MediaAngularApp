@@ -1,0 +1,38 @@
+Angular Website
+	Technologies
+		-angular
+		-node js
+		-firebase for users
+	Features
+		-display all movies/shows/games
+		-allow to sort by
+		-card component split into two i.e more information on one
+		-all components in page components on route components
+		-signup/login keep track of media
+		-display timeline off followed media
+		-notify user via text/email
+		-allow user to comment/like media
+Webscraper
+	Technologies
+		-node js
+		-axios
+		-cheerio
+		-firebase for data
+	Features
+		-scrape website(multiply website for each media)
+		-gather information from different websites(adding extra data to media already found)
+		-note trustworthy site and verfiy media integraty
+		-Data to be scraped
+			~Media name
+			~Description
+			~Release Date
+			~Platform Released on 
+				youtube,netflix,hulu,steam,epic store,xbox,playsation,disney
+			~Studio involved
+			~Reviews  rotten tomatoes,metacritic
+			~Image/Poster
+			~trailer
+
+
+
+ 
